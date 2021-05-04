@@ -1,0 +1,14 @@
+arquivos(Charlotte)
+av1-Charlotte.txt
+Charlotte1.txt
+Charlotte2.txt
+Charlotte3.txt
+final.txt
+instrucoes.txt
+labso.2021.1.av1
+log
+pasta1
+pasta2
+pasta3
+README.md
+ultimocomando.txt
